@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1e1e1e;
+    padding: 50px 0;
+}
+
+.about img {
+    width: 150px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
+.contact a {
+    display: block;
+    margin: 10px;
+    color: cyan;
+    text-decoration: none;
+}
+.youtube-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.youtube-button:hover {
+    background-color: darkred;
+}
+.profile-pic {
+    width: 150px;  /* Adjust the size */
+    height: auto;
+    border-radius: 50%; /* Makes it round */
+    display: block;
+    margin: 20px auto; /* Center it */
+}
+    
